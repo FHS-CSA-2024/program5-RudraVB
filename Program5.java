@@ -2,7 +2,7 @@
 
 //Your code here
 //import stuff here?
-public class Project5{
+public class Program5{
     public static void main(String[] args){
         //assign each vehicle a variable
         String vehicle1 = "Royale";
